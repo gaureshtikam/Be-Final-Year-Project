@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "480679777472",
+    "project_id": "fitverse-45901",
+    "storage_bucket": "fitverse-45901.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480679777472:android:89f3bbf251f30c599a8925",
+        "android_client_info": {
+          "package_name": "com.example.flutter_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "480679777472-9obi735n8nol2vqeljpmm5tt2889jtpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_auth",
+            "certificate_hash": "5385f0f63cba3f11d7b9fb2a93a6b31a0f494e45"
+          }
+        },
+        {
+          "client_id": "480679777472-upa703k0mtr0oqqm8jdbs4h7v4v9s61m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI79ZAf7CiBHhE4Qjq1JjEFh4Pe4OhKws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "480679777472-upa703k0mtr0oqqm8jdbs4h7v4v9s61m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
